@@ -127,11 +127,10 @@ hr{
     border-radius: 20px;
     text-decoration: none;
  }
+ .copyright{
+     margin-top: 30px;
  }
-  .copyright{
-      margin: 20px auto;
-  }
   .footer-link{
-      margin: 10px 20px;
+      margin: 20px 30px;
       color: #11999E;
   }
